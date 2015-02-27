@@ -43,4 +43,6 @@ def fu():
     #plain_text1[m] = l
     print plain_text1
     
+print "this is half of the program"
+
         
