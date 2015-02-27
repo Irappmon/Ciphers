@@ -44,5 +44,5 @@ def fu():
     print plain_text1
     
 print "this is half of the program"
-
+number=['1,2,3,4,5']
         
